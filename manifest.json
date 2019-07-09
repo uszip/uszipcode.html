@@ -1,0 +1,38 @@
+{
+  "name": "US ZIP CODE",
+  "short_name": "Us Zip Code",
+  "start_url": "https://uszipcode789.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "United States zip code collection.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-NhUxuiXmrkU/XSR6zUqxTAI/AAAAAAAAAA8/Whr0G_nzhjspv2jqJAvz-nJkNedmHbaIACLcBGAs/s48/favicon.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NhUxuiXmrkU/XSR6zUqxTAI/AAAAAAAAAA8/Whr0G_nzhjspv2jqJAvz-nJkNedmHbaIACLcBGAs/s72/favicon.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NhUxuiXmrkU/XSR6zUqxTAI/AAAAAAAAAA8/Whr0G_nzhjspv2jqJAvz-nJkNedmHbaIACLcBGAs/s96/favicon.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NhUxuiXmrkU/XSR6zUqxTAI/AAAAAAAAAA8/Whr0G_nzhjspv2jqJAvz-nJkNedmHbaIACLcBGAs/s144/favicon.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NhUxuiXmrkU/XSR6zUqxTAI/AAAAAAAAAA8/Whr0G_nzhjspv2jqJAvz-nJkNedmHbaIACLcBGAs/s168/favicon.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NhUxuiXmrkU/XSR6zUqxTAI/AAAAAAAAAA8/Whr0G_nzhjspv2jqJAvz-nJkNedmHbaIACLcBGAs/s192/favicon.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-NhUxuiXmrkU/XSR6zUqxTAI/AAAAAAAAAA8/Whr0G_nzhjspv2jqJAvz-nJkNedmHbaIACLcBGAs/s512/favicon.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
